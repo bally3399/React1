@@ -1,0 +1,10 @@
+.heroSection{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 90px;
+}
+.heroSection> h2{
+    color: #4d4d4d;
+    font-weight: bolder;
+    font-size: 30px;
+}

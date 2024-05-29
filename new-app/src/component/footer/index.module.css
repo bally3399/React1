@@ -1,0 +1,24 @@
+.footer1{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: space-evenly;
+}
+.footer1> p{
+    display: block;
+}
+.input{
+    background-color: white;
+    padding: 15px;
+}
+.input::placeholder{
+    color: white;
+}
+.image{
+
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 40px;
+    background: #263238;
+}
